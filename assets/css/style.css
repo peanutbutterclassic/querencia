@@ -23,7 +23,7 @@ h1, h2 {
 
 #logo {
     float: left;
-    font-size: 200%;
+    font-size: 280%;
 }
 
 /* navigation links */
@@ -54,4 +54,19 @@ h1, h2 {
 
 .active {
     border-bottom: 1px solid #028113;
+}
+
+/* boat image */
+
+#boat-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden; 
+}
+
+#boat-image {
+    height: 600px;
+    width: 100%;
+    background: url('../images/empty-boat.webp') no-repeat center center;
+
 }
