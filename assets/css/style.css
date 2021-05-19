@@ -48,3 +48,10 @@ h1, h2 {
     color: inherit;
 }
 
+#menu a:hover {
+    border-bottom: 1px solid #028113;
+}
+
+.active {
+    border-bottom: 1px solid #028113;
+}
