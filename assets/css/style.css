@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato&family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Quicksand:wght@300&display=swap');
 
 * {
     margin: 0;
@@ -7,7 +7,7 @@
 }
 
 body {
-    font-family:  Raleway, sans-serif;
+    font-family:  Montserrat, sans-serif;
     font-weight: 300;
     color: #028113;
 }
@@ -15,8 +15,13 @@ body {
 /* headings and logo */
 
 h1, h2 {
-    font-family: Lato, sans-serif;
+    font-family: Quicksand, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
     color: #02380f;
+}
+
+#logo {
+    float: left;
+    font-size: 200%;
 }
