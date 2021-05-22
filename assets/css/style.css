@@ -80,6 +80,8 @@ h1, h2 {
     height: 600px;
     width: 100%;
     overflow: hidden; 
+
+    position: relative;
 }
 
 #cover-text h2 {
@@ -116,7 +118,7 @@ h1, h2 {
 
     padding: 10px;
 
-    background-color: rgba(216, 129, 48, 0.7);
+    background-color: rgba(216, 129, 48, 0.6);
 
     top: 75px;
     left: 30px;
@@ -125,3 +127,44 @@ h1, h2 {
 
 }
 
+/* meet our nature travel experts */
+
+#nature-experts {
+    height: 600px;
+}
+
+#expert-one-picture {
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+}
+
+#expert-one-description {
+    padding-top: 30px;
+    width: 66%;
+    float: right;
+}
+
+#expert-two-picture {
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+}
+
+#expert-two-description {
+    padding-top: 30px;
+    width: 66%;
+    float: right;
+}
+
+#expert-three-picture {
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+}
+
+#expert-three-description {
+    padding-top: 30px;
+    width: 66%;
+    float: right;
+}
