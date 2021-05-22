@@ -26,6 +26,23 @@ h1, h2 {
     font-size: 280%;
 }
 
+/* logo colours */
+.y {
+    color: #028113;
+}
+.u {
+    color: #d88130;
+}
+.g {
+    color: #138599;
+}
+.e {
+    color: #d88130;
+}
+.n {
+    color: #028113;
+}
+
 /* navigation links */
 
 #menu {
