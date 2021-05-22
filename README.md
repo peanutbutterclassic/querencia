@@ -47,41 +47,6 @@ The website shall be structured as follows:
     </ul>
 </ol>
 
-Points to discuss with mentor (Guido):
-<ol>
-  <li>Scheduling the next two meetings before submitting MP1</li>
-<!--     <ul>
-      <li></li>
-      <li></li>
-      <li></li>
-    </ul> -->
-  <li>Confirmation of project idea</li>
-<!--       <ul>
-      <li></li>
-      <li></li>
-      <li></li>
-    </ul> -->
-  <li>Expectation (eg. technologies to use to obtain a distinction)</li>
-<!--       <ul>
-      <li></li>
-      <li></li>
-      <li></li>
-    </ul> -->
-  <li>Clarification on UX design</li>
-<!--       <ul>
-      <li></li>
-      <li></li>
-      <li></li>
-    </ul> -->
-  <li>Miscellaneous (eg. any preference in terns of styling or coding approach)</li>
-<!--       <ul>
-      <li></li>
-      <li></li>
-      <li></li>
-    </ul> -->
-</ol>
-
-
 During the post pandemic, many people will be eager to get back in the air and some might even want to start checking off their travel bucket list so this website is designed to inspire people to discover the Wonders the world has to offer.
 Landing page shall include a teaser to promote, inspire and get users to take action (enter website and discover).
 
