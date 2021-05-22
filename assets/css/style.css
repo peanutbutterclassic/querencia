@@ -24,6 +24,7 @@ h1, h2 {
 #logo {
     float: left;
     font-size: 280%;
+    margin-left: 30px;
 }
 
 /* logo colours */
@@ -73,12 +74,16 @@ h1, h2 {
     border-bottom: 1px solid #028113;
 }
 
-/* boat image */
+/* boat image and cover text */
 
 #boat-outer {
     height: 600px;
     width: 100%;
     overflow: hidden; 
+}
+
+#cover-text h2 {
+    color:seashell;
 }
 
 #boat-image {
@@ -102,7 +107,21 @@ h1, h2 {
     }
 }
 
+#cover-text h2 {
+    /* font-size: 130%; */
+    font-family: Quicksand, sans-serif;
 
-#boat-outer {
+    width: 300px;
+    height: 200px;
+
+    padding: 10px;
+
+    background-color: rgba(216, 129, 48, 0.7);
+
+    top: 75px;
+    left: 30px;
+
+    position: absolute;
 
 }
+
