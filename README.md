@@ -68,3 +68,4 @@ RawPixel
 
 References:
 - Apply colour coded logo through [WittCode](https://www.youtube.com/watch?v=5EJWYUwOe3E)
+- [Bon Travel](https://www.bontraveler.com/12-beautiful-foreign-words-that-describe-wanderlust/)

@@ -27,6 +27,12 @@ h1, h2 {
     margin-left: 30px;
 }
 
+/* .logo {
+    float: left;
+    font-size: 280%;
+    margin-left: 30px;
+} */
+
 /* logo colours */
 .y {
     color: #028113;
@@ -180,6 +186,23 @@ h1, h2 {
 
 }
 
+/* Introduction to Yugen */
+
+#yugen-intro {
+    top: 75px;
+}
+
+.destination {
+    margin-top: 75px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+#goal {
+	box-sizing: border-box;
+    width: 66%;
+    padding: 2em;
+}
 
 /* meet our nature travel experts */
 
