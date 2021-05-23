@@ -223,3 +223,30 @@ h1, h2 {
     width: 66%;
     float: right;
 }
+
+
+.plaintext {
+    text-decoration: initial; 
+}
+
+
+/* article section */
+
+#article-width {
+    width: 600px;
+    float: left;
+    border: 2px solid black
+}
+
+#travel-gallery {
+    width: 600px;
+    float: right;
+    background-color: aquamarine;
+}
+
+#article-image {
+    height: 300px;
+    width: 300px;
+    background-image: url(../images/empty-boat.webp);
+    
+}
