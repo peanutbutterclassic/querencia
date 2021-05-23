@@ -127,10 +127,65 @@ h1, h2 {
 
 }
 
+/* cliff pose image and cover text */
+
+#cliff-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden; 
+
+    position: relative;
+}
+
+#cover-text-nature h2 {
+    color:seashell;
+}
+
+#cliff-pose {
+    height: 600px;
+    width: 100%;
+    background: url('../images/cliff-pose.webp') no-repeat center center;
+
+    /* animates zoom effect on loading page */
+    animation-name: boat-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+/* creates the level of zoom for boat image */
+@keyframes boat-zoom {
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.2);
+    }
+}
+
+#cover-text-nature h2 {
+    /* font-size: 130%; */
+    font-family: Quicksand, sans-serif;
+
+    width: 300px;
+    height: 200px;
+
+    padding: 10px;
+
+    background-color: rgba(216, 129, 48, 0.6);
+
+    top: 75px;
+    left: 30px;
+
+    position: absolute;
+
+}
+
+
 /* meet our nature travel experts */
 
 #nature-experts {
     height: 600px;
+    background-color: aqua;
 }
 
 #expert-one-picture {
