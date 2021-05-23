@@ -189,12 +189,15 @@ h1, h2 {
 /* Introduction to Yugen */
 
 #yugen-intro {
-    top: 75px;
+    line-height: 75px;
+    padding-top: 75px;
+    font-size: x-large;
 }
 
 .destination {
-    margin-top: 75px;
+    top: 75px;
     text-align: center;
+    padding: 30px 25px;
     margin: 0 auto;
 }
 
@@ -202,6 +205,18 @@ h1, h2 {
 	box-sizing: border-box;
     width: 66%;
     padding: 2em;
+}
+
+/* story */
+
+/* #background {
+    height: 6
+} */
+
+#sunset {
+    margin: 0 auto;
+    text-align: center;
+    clear: both;
 }
 
 /* meet our nature travel experts */
@@ -245,11 +260,6 @@ h1, h2 {
     padding-top: 30px;
     width: 66%;
     float: right;
-}
-
-
-.plaintext {
-    text-decoration: initial; 
 }
 
 
