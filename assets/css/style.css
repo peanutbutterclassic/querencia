@@ -259,11 +259,24 @@ h1, h2 {
 }
 
 
-/* article section */
+/* nature */
 
-#article-width {
-    width: 100%;
-    float: left;
+h3 {
+    font-family: Quicksand, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #3a3a3a;
+}
+
+.interview-text {
+    font-family: Montserrat, sans-serif;
+    letter-spacing: 2px;
+    color: #3a3a3a;
+}
+
+#nature-frame {
+    width: 90%;
+    margin: 0 60px;
     background-color: chartreuse;
 }
 
@@ -376,6 +389,10 @@ h1, h2 {
 
 }
 
+/* nature */
+
+
+
 /* footer  */
 
 footer {
@@ -397,3 +414,31 @@ footer {
     color: #d88130;
 }
 
+/* Yugen members */
+
+#member-area {
+    height: 600px
+}
+
+#left-profile {
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+
+}
+
+#right-profile {
+    padding-top: 30px;
+    width: 33%;
+    float: right;
+
+}
+
+#center-profile {
+        padding-top: 30px;
+        width: 33%;
+        margin: 0 auto;
+        
+    
+    }
+}
