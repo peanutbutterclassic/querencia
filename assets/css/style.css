@@ -9,7 +9,7 @@
 body {
     font-family:  Montserrat, sans-serif;
     font-weight: 300;
-    color: #028113;
+    color: #3a3a3a;
 }
 
 /* headings and logo */
@@ -18,7 +18,7 @@ h1, h2 {
     font-family: Quicksand, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
-    color: #02380f;
+    color: #3a3a3a;
 }
 
 #logo {
@@ -26,12 +26,6 @@ h1, h2 {
     font-size: 280%;
     margin-left: 30px;
 }
-
-/* .logo {
-    float: left;
-    font-size: 280%;
-    margin-left: 30px;
-} */
 
 /* logo colours */
 .y {
@@ -209,9 +203,11 @@ h1, h2 {
 
 /* story */
 
-/* #background {
-    height: 6
-} */
+#story {
+    margin: 0 auto;
+    text-align: center;
+    clear: both;
+}
 
 #sunset {
     margin: 0 auto;
@@ -379,3 +375,25 @@ h1, h2 {
     background-color: #fafafa;
 
 }
+
+/* footer  */
+
+footer {
+    height: 150px;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #d88130;
+}
+
