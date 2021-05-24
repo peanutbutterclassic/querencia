@@ -417,7 +417,7 @@ footer {
 /* Yugen members area */
 
 .member-area {
-    height: 600px
+    height: 400px
 }
 
 #member {
@@ -447,7 +447,7 @@ hr {
 .center-profile {
         width: 33%;
         margin: 0 auto; 
-        background-color: #028113;   
+           
 }
 
 
@@ -480,12 +480,12 @@ hr {
 
 
 
-/* #circle-container {
+#circle-container {
     height: 300px;
     width: 300px;
     padding: 30px;
     border-style: solid;
-    border-color: black;
+    border-color: #d88130;
     border-width: 1px;
     border-radius: 50%;
     margin: 0 auto;
@@ -499,5 +499,5 @@ hr {
     height: 100%;
     border-radius: 50%;
 
-} */
+}
 
