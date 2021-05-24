@@ -414,31 +414,90 @@ footer {
     color: #d88130;
 }
 
-/* Yugen members */
+/* Yugen members area */
 
-#member-area {
+.member-area {
     height: 600px
 }
 
-#left-profile {
+#member {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 280%;
+}
+
+hr {
+    border-top: 1px solid #d88130;
+    width: 100%;
+    margin: 5px;
+}
+
+.left-profile {
     padding-top: 30px;
     width: 33%;
     float: left;
-
 }
 
-#right-profile {
+.right-profile {
     padding-top: 30px;
     width: 33%;
     float: right;
-
 }
 
-#center-profile {
-        padding-top: 30px;
+.center-profile {
         width: 33%;
-        margin: 0 auto;
-        
-    
-    }
+        margin: 0 auto; 
+        background-color: #028113;   
 }
+
+
+/* profile description */
+
+
+.left-about-profile {
+    width: 60%;
+    float: right;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+}
+
+.right-about-profile {
+    width: 60%;
+    float: left;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+}
+
+.right-about-profile h3 {
+    text-align: right;
+}
+
+.right-about-profile p {
+    text-align: right;
+}
+
+
+
+/* #circle-container {
+    height: 300px;
+    width: 300px;
+    padding: 30px;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    border-radius: 50%;
+    margin: 0 auto;
+    
+
+}
+
+
+#circle-cover-bg {
+    background: url(../images/woman-sunglasses.webp) no-repeat center center;
+    height: 100%;
+    border-radius: 50%;
+
+} */
+
