@@ -1,13 +1,10 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+ # Yūgen
 
-Yūgen
-<hr>
-Code Institute MP1 - Project Idea 0 
-<hr>
-<!-- pitch: one / two para introducing the website -->
+Welcome to [Yūgen](https://8000-aquamarine-woodpecker-p6r7i0xp.ws-eu07.gitpod.io/index.html). 
 
-Yūgen (in Japanese) refers to an awareness of the Universe that triggers emotional responses too deep and powerful for words. It is used as a title for this website with the aim to inspire nature travellers to embrace the natural world. The site will be targeted towards people who want to travel sustainably. Yugen is derived from a Japanese world   
-The website aims to inspire people to get over their fears, discover and embrace the world. 
+[Yūgen](https://8000-aquamarine-woodpecker-p6r7i0xp.ws-eu07.gitpod.io/index.html) is a Japanese word that refers to an awareness of the Universe that triggers emotional responses too deep and powerful for words. It is used as a title for this website with the aim to inspire nature travellers to embrace the natural world and raise awareness about the need to protect the natural environment. As such, this website will be targeted towards people who want to travel sustainably while contributing positively to the global goal of protecting the environment. In other word, [Yugen](https://8000-aquamarine-woodpecker-p6r7i0xp.ws-eu07.gitpod.io/index.html)  is a platform for like-minded travellers who want to do more to help the environment than just visiting places. 
+
+Users can get inspiration from Sir David Attenborough through his plea to "do more in order to protect our planet." Users can also find and get in touch with other nature travellers featured in [Yugen](https://8000-aquamarine-woodpecker-p6r7i0xp.ws-eu07.gitpod.io/index.html)'s Discover Nature page. On each page, there is a call to action that takes users to a sign up area and be part of the community of passionate travellers who care about the environment.   
 
 External user’s goal:
  During the post pandemic when restictions are lifted, users would be interested in travelling and discovering new places. 
