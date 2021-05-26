@@ -1,4 +1,4 @@
- # Yūgen
+# Yūgen
 
 Welcome to [Yūgen](https://8000-aquamarine-woodpecker-p6r7i0xp.ws-eu07.gitpod.io/index.html). 
 
