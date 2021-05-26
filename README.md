@@ -18,7 +18,12 @@ This website follows a "three clicks" where three pages are provided with two ca
 
   * This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 
-![Navigation Bar](../css/)
+<!-- Add screenshot of navigation bar -->
+<!-- ![Navigation Bar](../css/) -->
+
+* The landing page (home) image
+  * The landing includes a photograph of nature (height 600px) with text overlay "Discover, Dream, Explore" to inspire users to get their foot into the world of discoveries.
+  * This section introduces the technique gained from one of [Code Institute](https://codeinstitute.net/)'s lectures on website animations to create a zoom effect upon entering the website to grab users' attention.
 
 
 
