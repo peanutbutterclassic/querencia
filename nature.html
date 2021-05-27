@@ -3,36 +3,49 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="Querencia, a travel website for aspiring nature travellers">
-        <meta name="keywords" content="quenrencia, nature travel, thrill seeker, adventure and discovery">
+        <meta name="description" content="Yūgen is a nature travel website for aspiring travellers who are passionate 
+        about protecting the environment">
+        <meta name="keywords" content="Yūgen, nature travel, thrill seeker, adventure and discovery">
+        <!-- CSS only -->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet"
+            integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
         <link rel="stylesheet" href="assets/css/style.css">
         <title>Yūgen</title>
     </head>
     <body>
         <header>
-            <a href="index.html">
-                <h1 id="logo">
-                    <span class="y">Y</span>
-                    <span class="u">ū</span>
-                    <span class="g">g</span>
-                    <span class="e">e</span>
-                    <span class="n">n</span>
-                </h1>
-            </a>
-            <nav>
-                <ul id="menu">
-                    <li>
-                        <a href="form.html">Join Us</a>
-                    </li>
-                    <li>
-                        <a href="nature.html" class="active">Discover Nature</a>
-                    </li>
-                    <li>
-                        <a href="index.html">Home</a>
-                    </li> 
-                </ul>
+            <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark mr-auto">
+                <div class="container-fluid">
+                    <a class="navbar-brand" href="#">
+                        <h1 id="logo">
+                            <span class="y">Y</span>
+                            <span class="u">ū</span>
+                            <span class="g">g</span>
+                            <span class="e">e</span>
+                            <span class="n">n</span>
+                        </h1>
+                    </a>
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse"
+                        aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarCollapse">
+                        <ul class="navbar-nav me-auto mb-2 mb-md-0">
+                            <li class="nav-item">
+                                <a class="nav-link" href="form.html">Join Us</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="nature.html">Discover Nature</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
             </nav>
         </header>
+
         <section id="cliff-outer">
             <div id="cliff-pose"></div>
             <div id="cover-text-nature">
