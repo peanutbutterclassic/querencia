@@ -547,3 +547,34 @@ hr {
 .interview-quote {
     font-family: 'Abril Fatface', sans-serif;
 }
+
+
+/* take action button */
+
+.take-action-button {
+        background-color: #d88130;
+        border: none;
+        color: white;
+        padding: 20px;
+        text-align: center;
+        text-decoration: none;
+        /* display: inline-block; */
+        font-size: 16px;
+        margin: 0 auto;
+        border-radius: 50%;
+}
+
+.take-action-container {
+    height: 200px;
+    position: relative;
+    border: 3px solid green;
+
+}
+
+.take-action-verticle {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
