@@ -30,10 +30,38 @@ h4 {
     color: #138599;
 }
 
+/* menu bar */
+
+#menu {
+    font-size: 110%;
+    letter-spacing: 4px;
+}
+
+#menu, #logo {
+    line-height: 75px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+    margin-right: 30px;
+}
+
 #logo {
     float: left;
     font-size: 280%;
     margin-left: 30px;
+}
+
+#menu a:hover {
+    border-bottom: 2px solid #d88130;
+
 }
 
 .logo {
@@ -42,6 +70,23 @@ h4 {
     text-align: center;
 }
 
+.active {
+    border-bottom: 2px solid #d88130;
+}
+
+element.style {
+}
+.menu {
+    position: fixed;
+    top: 2rem;
+    right: 2rem;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    font-size: 18px;
+    -webkit-transition: color .5s ease;
+    transition: color .5s ease;
+}
 
 /* logo colours */
 .y {
@@ -165,6 +210,10 @@ h4 {
 
 /* Introduction to Yugen */
 
+/* .row {
+    background-color: seagreen;
+} */
+
 #yugen-intro {
     line-height: 75px;
     padding-top: 75px;
@@ -179,12 +228,14 @@ h4 {
 }
 
 #vision {
-	box-sizing: border-box;
+	font-size: 130%;
+    box-sizing: border-box;
     width: 66%;
     padding: 2em;
 }
 
 #mission {
+    font-size: 130%;
 	box-sizing: border-box;
     width: 66%;
     padding: 2em;
@@ -411,7 +462,7 @@ footer {
 /* Yugen members area */
 
 .member-area {
-    height: 500px
+    height: 600px
 }
 
 #member {
@@ -421,28 +472,28 @@ footer {
 }
 
 hr {
-    border-top: 1px solid #d88130;
+    border-top: 4px solid #d88130;
     width: 100%;
     margin: 5px;
 }
 
 .left-profile {
     padding-top: 30px;
-    width: 33%;
+    width: 45%;
     float: left;
 }
 
 .right-profile {
     padding-top: 30px;
-    width: 33%;
+    width: 45%;
     float: right;
 }
 
-.center-profile {
+/* .center-profile {
         width: 33%;
         margin: 0 auto; 
            
-}
+} */
 
 
 /* profile description */
@@ -499,7 +550,7 @@ hr {
 @media screen and (max-width: 1200px) {
     #club-ethos {
         width: 65%;
-        height: 1200px;
+        height: 1400px;
         margin: 0 auto;
     }
 
@@ -552,7 +603,7 @@ hr {
 
     #member-area {
         width: 90%;
-        height: 1200px;
+        height: 1400px;
         margin: 0 auto;
     }
 
@@ -578,6 +629,19 @@ hr {
         padding: 0;
     }
 
+}
+
+/* for medium screen sizes from 600px wide and down */
+@media screen and (max-width: 600px) {
+
+    #menu {
+        clear: left;
+        float: left;
+        margin-left: 30px; 
+        margin-bottom: 20px; 
+        line-height: 20px;
+    }
+}
 /* nature introduction */
 
 #nature-introduction {
