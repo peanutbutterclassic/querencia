@@ -121,7 +121,7 @@ header {
 #boat-image {
     height: 800px;
     width: 100%;
-    background: url('../images/empty-boat-lake.webp') no-repeat center center;
+    background: url('../images/tree.webp') no-repeat center center;
 
     /* animates zoom effect on loading page */
     animation-name: boat-zoom;
@@ -150,8 +150,8 @@ header {
 
     background-color: rgba(216, 129, 48, 0.6);
 
-    top: 225px;
-    left: 60px;
+    top: 150px;
+    left: 30px;
 
     position: absolute;
 
