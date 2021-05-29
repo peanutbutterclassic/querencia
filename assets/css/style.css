@@ -74,9 +74,11 @@ h4 {
     border-bottom: 2px solid #d88130;
 }
 
-element.style {
+header {
+    background-color: #3a3a3a;
 }
-.menu {
+
+/* .menu {
     position: fixed;
     top: 2rem;
     right: 2rem;
@@ -86,7 +88,7 @@ element.style {
     font-size: 18px;
     -webkit-transition: color .5s ease;
     transition: color .5s ease;
-}
+} */
 
 /* logo colours */
 .y {
@@ -462,13 +464,14 @@ footer {
 /* Yugen members area */
 
 .member-area {
-    height: 600px
+    height: 800px
 }
 
 #member {
     text-align: center;
     margin: 20px 0;
     font-size: 180%;
+    background-color: #d88130;
 }
 
 hr {
@@ -682,22 +685,33 @@ hr {
 /* take action button */
 
 .take-action-button {
-        background-color: #d88130;
-        border: none;
-        color: white;
-        padding: 20px;
-        text-align: center;
-        text-decoration: none;
-        /* display: inline-block; */
-        font-size: 16px;
-        margin: 0 auto;
-        border-radius: 50%;
+    margin-top: 20px;
+    border-radius: 2px;
+    padding: 15px 32px 15px 32px;
+    text-align: center;
+    font-size: 100%;
+    background-color: #d88130;
+    color: #fafafa;
+    display: block;
+        
+}
+
+.take-action-button:hover {
+    margin-top: 20px;
+    border-radius: 2px;
+    padding: 15px 32px 15px 32px;
+    text-align: center;
+    font-size: 100%;
+    background-color: #fafafa;
+    color: #d88130;
+    display: block;
+    border: 2px solid #d88130;
 }
 
 .take-action-container {
     height: 200px;
     position: relative;
-    border: 3px solid #d88130;
+    border: 1px solid #d88130;
     
     display: flex;
     flex-direction: row;
@@ -717,6 +731,8 @@ hr {
     justify-content: center;
     align-items: center;
 }
+
+
 
 /* flip box type gallery */
 
