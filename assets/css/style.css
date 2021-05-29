@@ -647,32 +647,27 @@ hr {
 }
 /* nature introduction */
 
-#nature-introduction {
+/* #nature-introduction {
     height: 600px;
-}
+} */
 
 #intro-one {
     padding-top: 30px;
-    width: 30%;
-    float: left;
-    margin-left: 30px;
-    background-color: #138599;
+    margin: 0 30px;
+    background-color: skyblue;
 
 }
 
 #intro-two {
     padding-top: 30px;
-    width: 30%;
-    float: right;
-    margin-right: 30px;
+    margin: 0 30px;
     background-color: #028113;
 
 }
 
 #intro-three {
-    padding-top:30px;
-    width: 30%;
-    margin: 0 auto;
+    padding-top: 30px;
+    margin: 0 30px;
     background-color: #d88130;
     
 }
