@@ -49,6 +49,14 @@ h5 {
     vertical-align: super;
 }
 
+
+.bold {
+    font-weight: 800;
+}
+
+.center {
+    text-align: center;
+}
 /* menu bar */
 
 #menu {
@@ -288,6 +296,19 @@ header {
 }
 
 
+/* style description list */
+
+dt {
+    font-weight: bold;
+    text-decoration: underline;
+  }
+
+dd {
+    margin: 0;
+    padding: 0 0 0.5em 0;
+  }
+
+  
 /* meet our nature travel experts */
 
 #nature-experts {
