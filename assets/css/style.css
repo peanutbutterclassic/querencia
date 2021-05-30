@@ -40,10 +40,14 @@ h5 {
 }
 
 .text-enlarge {
+    font-size: 150%;
     
 
 }
 
+.super {
+    vertical-align: super;
+}
 
 /* menu bar */
 
