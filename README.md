@@ -1,6 +1,13 @@
 # Yūgen
 
-Welcome to [Yūgen](https://8000-aquamarine-woodpecker-p6r7i0xp.ws-eu07.gitpod.io/index.html). 
+Welcome to [Yūgen](https://peanutbutterclassic.github.io/yugen/). 
+
+![Main homepage](https://github.com/peanutbutterclassic/yugen/blob/master/assets/images/readme-images/am-i-responsive.png)
+
+Format: ![Alt Text](url)
+
+![alt text](https://github.com/peanutbutterclassic/yugen/blob/master/assets/images/readme-images/am-i-responsive.png)  
+The image is from [Am I responsive?](http://ami.responsivedesign.is/)
 
 [Yūgen](https://8000-aquamarine-woodpecker-p6r7i0xp.ws-eu07.gitpod.io/index.html) is a Japanese word that refers to an awareness of the Universe that triggers emotional responses too deep and powerful for words. It is used as a title for this website with the aim to inspire nature travellers to embrace the natural world and raise awareness about the need to protect the natural environment. As such, this website will be targeted towards people who want to travel sustainably while contributing positively to the global goal of protecting the environment. In other word, [Yugen](https://8000-aquamarine-woodpecker-p6r7i0xp.ws-eu07.gitpod.io/index.html)  is a platform for like-minded travellers who want to do more to help the environment than just visiting places. 
 
