@@ -8,7 +8,7 @@ Users can get inspiration from Sir David Attenborough through his plea to "do mo
 
 ## Features
 
-This website follows a "three clicks" where three pages are provided with two call to action buttons at the bottom of the homepage and Discover Nature page (second page) which direct the users to the sign up area to be part of the global community of passionate travellers.
+This website follows a "three clicks" rule where three pages are provided with two call to action buttons at the bottom of the homepage and Discover Nature page (second page) which direct the users to the sign up area to be part of [Yugen](https://8000-aquamarine-woodpecker-p6r7i0xp.ws-eu07.gitpod.io/index.html)'s global community of passionate travellers.
 
 ### Existing Features
 

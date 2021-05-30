@@ -203,8 +203,8 @@ header {
 
     background-color: rgba(216, 129, 48, 0.6);
 
-    top: 225px;
-    left: 60px;
+    top: 150px;
+    left: 30px;
 
     position: absolute;
 
@@ -328,7 +328,7 @@ h3 {
 
 #nature-frame {
     width: 90%;
-    margin: 0 60px;
+    margin: 150px 60px;
 }
 
 #travel-gallery {
@@ -436,7 +436,6 @@ h3 {
     border: 1px solid #d88130;
     border-radius: 2px;
     background-color: #fafafa;
-
 }
 
 
@@ -645,16 +644,19 @@ hr {
         line-height: 20px;
     }
 }
+
+
 /* nature introduction */
 
-/* #nature-introduction {
-    height: 600px;
-} */
+#nature-introduction {
+    /* height: 600px; */
+}
 
 #intro-one {
     padding-top: 30px;
     margin: 0 30px;
     background-color: skyblue;
+    text-align: center;
 
 }
 
@@ -676,6 +678,19 @@ hr {
     font-family: 'Abril Fatface', sans-serif;
 }
 
+.video-center {
+    text-align: center;
+}
+
+
+/* interview section  */
+
+#nature-interview {
+    padding-top: 30px;
+    margin: 0 30px;
+    background-color: darksalmon;
+}
+
 
 /* take action button */
 
@@ -684,6 +699,7 @@ hr {
     border-radius: 2px;
     padding: 15px 32px 15px 32px;
     text-align: center;
+    list-style-type: none;
     font-size: 100%;
     background-color: #d88130;
     color: #fafafa;
@@ -727,7 +743,13 @@ hr {
     align-items: center;
 }
 
-
+#action {
+    font-family: Fatface ;
+    font-size: 110%;
+    letter-spacing: 4px;
+    text-decoration: none;
+    color: inherit;
+}
 
 /* flip box type gallery */
 
