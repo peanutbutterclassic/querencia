@@ -35,6 +35,7 @@ h4 {
 #menu {
     font-size: 110%;
     letter-spacing: 4px;
+    
 }
 
 #menu, #logo {
@@ -655,22 +656,28 @@ hr {
 #intro-one {
     padding-top: 30px;
     margin: 0 30px;
-    background-color: skyblue;
+    background-color: #3a3a3a;
     text-align: center;
+    color: seashell;
 
 }
 
 #intro-two {
     padding-top: 30px;
     margin: 0 30px;
-    background-color: #028113;
+    background-color: #3a3a3a;
+    text-align: center;
+    color: seashell;
 
 }
 
 #intro-three {
     padding-top: 30px;
     margin: 0 30px;
-    background-color: #d88130;
+    background-color: #3a3a3a;
+    text-align: center;
+    color: seashell;
+    
     
 }
 
@@ -678,17 +685,55 @@ hr {
     font-family: 'Abril Fatface', sans-serif;
 }
 
+.text-color {
+    color: seashell;
+}
+
+.wwf {
+    margin-top: 20px;
+    border-radius: 2px;
+    padding: 15px 32px 15px 32px;
+    /* text-align: center; */
+    list-style-type: none;
+    font-size: 100%;
+    background-color: #d88130;
+    color: #fafafa;
+    display: block;
+
+}
+
+.wwf:hover {
+    margin-top: 20px;
+    border-radius: 2px;
+    padding: 15px 32px 15px 32px;
+    /* text-align: center; */
+    font-size: 100%;
+    background-color: #fafafa;
+    color: #d88130;
+    display: block;
+    border: 2px solid #d88130;
+}
 .video-center {
     text-align: center;
 }
 
+/* for medium screen sizes from 650px wide and down */
+@media screen and (max-width: 650px) {
+
+    .video-center {
+        width: 100%;
+        height: 400px;
+        
+    }
+}
 
 /* interview section  */
 
 #nature-interview {
     padding-top: 30px;
     margin: 0 30px;
-    background-color: darksalmon;
+    /* background-color: darksalmon; */
+    background: rgba(0, 0, 0, 0.1);
 }
 
 
