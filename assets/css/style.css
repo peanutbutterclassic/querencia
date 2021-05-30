@@ -470,14 +470,17 @@ footer {
 /* Yugen members area */
 
 .member-area {
-    height: 700px
+    height: 700px;
+    border: 4px solid #d88130;
+    border-radius: 2em;
+    margin: 0 30px;
+
 }
 
 #member {
     text-align: center;
     margin: 20px 0;
     font-size: 180%;
-    background-color: #d88130;
 }
 
 hr {
