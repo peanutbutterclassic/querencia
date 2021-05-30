@@ -659,6 +659,7 @@ hr {
     background-color: #3a3a3a;
     text-align: center;
     color: seashell;
+    border-radius: 2em;
 
 }
 
@@ -668,7 +669,12 @@ hr {
     background-color: #3a3a3a;
     text-align: center;
     color: seashell;
+    border-radius: 2em;
 
+}
+
+dt {
+    font-size: 180%;
 }
 
 #intro-three {
@@ -677,6 +683,7 @@ hr {
     background-color: #3a3a3a;
     text-align: center;
     color: seashell;
+    border-radius: 2em;
     
     
 }
@@ -734,6 +741,7 @@ hr {
     margin: 0 30px;
     /* background-color: darksalmon; */
     background: rgba(0, 0, 0, 0.1);
+    border-radius: 2em;
 }
 
 
@@ -767,7 +775,7 @@ hr {
 .take-action-container {
     height: 200px;
     position: relative;
-    border: 1px solid #d88130;
+    /* border: 1px solid #d88130; */
     
     display: flex;
     flex-direction: row;
