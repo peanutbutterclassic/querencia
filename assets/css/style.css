@@ -935,3 +935,18 @@ dt {
   -webkit-transform: scaleX(-1);
   transform: scaleX(-1);
 }
+
+/* Navbar */
+.navbar-bg-custom {
+    background-color: #f1f1f1;
+}
+
+.navbar-custom .navbar-nav .nav-link {
+    color: rgba(0, 0, 0, 0.55);
+}
+
+/* Modify brand and text color */
+/* .navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+    color: green;
+} */
