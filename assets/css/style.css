@@ -41,8 +41,10 @@ h5 {
 
 .text-enlarge {
     font-size: 150%;
-    
+}
 
+.text-enlarge span {
+    font-size: 150%;
 }
 
 .super {
@@ -84,8 +86,9 @@ h5 {
 
 #logo {
     float: left;
-    font-size: 280%;
+    font-size: 300%;
     margin-left: 30px;
+    font-weight: 900;
 }
 
 #menu a:hover {
@@ -804,8 +807,10 @@ dt {
     list-style-type: none;
     font-size: 100%;
     background-color: #d88130;
-    color: #fafafa;
+    color: navy;
     display: block;
+    text-decoration: none;
+    
         
 }
 
