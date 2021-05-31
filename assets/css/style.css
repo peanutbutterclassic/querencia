@@ -378,9 +378,10 @@ h3 {
 }
 
 .interview-text {
-    font-family: Montserrat, sans-serif;
+    font-size: 120%;
+    font-family: Quicksand, sans-serif;
     letter-spacing: 2px;
-    color: #3a3a3a;
+    color: black;
     text-align: justify;
 }
 
