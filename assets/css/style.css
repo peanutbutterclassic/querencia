@@ -864,7 +864,7 @@ dt {
     list-style-type: none;
     font-size: 100%;
     background-color: #d88130;
-    color: navy;
+    color: seashell;
     display: block;
     text-decoration: none;
     
@@ -878,7 +878,7 @@ dt {
     text-align: center;
     font-size: 100%;
     background-color: #d88130;
-    color: #028113;
+    color: seashell;
     display: block;
     border: 2px solid #d88130;
 }
