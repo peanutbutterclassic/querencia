@@ -2,9 +2,11 @@
 
 Welcome to [Yūgen](https://peanutbutterclassic.github.io/yugen/). 
 
-![Main homepage](https://raw.githubusercontent.com/peanutbutterclassic/yugen/master/assets/images/readme-images/am-i-responsive.png)
+This image is from [Am I Responsive](http://ami.responsivedesign.is/?url=https%3A%2F%2Fpeanutbutterclassic.github.io%2Fyugen%2F#).
 
-[Yūgen](https://peanutbutterclassic.github.io/yugen/) is a Japanese word which refers to an awareness of the Universe that triggers emotional responses too deep and powerful for words. It is used as a title for this website with the aim to inspire nature travellers to embrace the natural world and raise awareness about the need to protect the natural environment. As such, this website will be targeted towards people who want to travel sustainably while contributing positively to the global goal of protecting the environment. In other word, [Yugen](https://peanutbutterclassic.github.io/yugen/)  is a platform for like-minded travellers who want to do more to help the environment than just visiting places. 
+![Landing homepage](https://raw.githubusercontent.com/peanutbutterclassic/yugen/master/assets/images/readme-images/screenshot-landing.png)
+
+[Yūgen](https://peanutbutterclassic.github.io/yugen/) is a Japanese word which refers to an awareness of the Universe that triggers emotional responses too deep and powerful for words. It is used as a title for this website with the aim to inspire nature travellers to embrace the natural world and raise awareness about the need to protect the environment. As such, this website will be targeted towards people who want to travel sustainably while contributing positively to the global goal of protecting the environment. In other word, [Yugen](https://peanutbutterclassic.github.io/yugen/) is a platform for like-minded travellers who want to do more to help the environment than just visiting places. 
 
 Users can get inspiration from Sir David Attenborough through his plea to "do more in order to protect our planet." Users can also find and get in touch with other nature travellers featured in [Yugen](https://peanutbutterclassic.github.io/yugen/)'s Discover Nature page. On each page, there is a call to action that takes users to a sign up area and be part of the community of passionate travellers who care about the environment.  
 
@@ -16,7 +18,7 @@ This website follows a "three clicks" rule where three pages are provided with t
 
 * Navigation bar 
 
-  * Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
+  * The full responsive navigation bar (created using Bootstrap) includes menu tabs with links the Home page (including link on the logo to navigate back to the homepage), Discover Nature page, Interview page and form page.
 
   * This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 
