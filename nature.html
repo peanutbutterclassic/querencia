@@ -7,11 +7,13 @@
         about protecting the environment">
         <meta name="keywords" content="Yūgen, nature travel, thrill seeker, adventure and discovery">
         <meta name="Author" content="Rano Fisher">
-        <!-- CSS only -->
+        <!-- fancy box -->
         <link rel="stylesheet" type="text/css" href="jquery.fancybox.min.css">
+        <!-- bootstrap -->
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet"
             integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
         <link rel="stylesheet" href="/fancybox/jquery.fancybox-1.3.4.css" type="text/css" media="screen"/>
+        <!-- css stylesheet -->
         <link rel="stylesheet" href="assets/css/style.css">
         <title>Yūgen</title>
     </head>
@@ -38,7 +40,7 @@
                                 <a class="nav-link uppercase" href="index.html">Home</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link active uppercase" aria-current="page" href="nature.html">Discover Nature</a>
+                                <a class="nav-link active uppercase" href="nature.html">Discover Nature</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link uppercase" href="interview.html">Interview</a>
@@ -51,64 +53,125 @@
                 </div>
             </nav>
         </header>
-        <section id="cliff-outer">
-            <div id="cliff-pose"></div>
-            <div id="cover-text-nature">
-                <h2>Explore, Dream, Discover</h2>
-            </div>
-        </section>
-        <section id="nature-introduction">
-            <div id="intro-one">
-                <h3 class="text-color">Interesting facts about nature discoveries</h3>
-                <br>
-                <p>
-                    Check out our favourite video with fun facts about the natural world. Get ready to learn, 
-                    discover and be intrigued.
-                </p>
-                <figure class="video-center">
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/wehfxjthuMM" title="YouTube video player" 
-                    frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-                    allowfullscreen></iframe>
-                    <figcaption>Benefits of being in nature</figcaption>
-                </figure>
-            </div>
-            <div id="intro-two">
-                <h3 class="text-color">Tips on getting started, contacts and useful links</h3>
-                <br>
-                <dl>
-                    <dt>Step one</dt>
-                    <dd>Sign up and be part of the community of passionate nature travellers</dd>
-                    <dt>Step two</dt>
-                    <dd>Fill in the survey form upon arrival at your destination</dt>
-                    <dt>Step three</dt>
-                    <dd>Complete form upon leaving your destination</dd>
-                </dl>
-                <a class="wwf" href="https://www.wwf.org.uk/learn/love-nature">Learn more on how you can get involved</a>
-            </div>
-            <br>
-            <div id="intro-three">
-                <h3 class="text-color">Insight: Interview with our nature expert</h3>
-                <br>
-                <p>
-                    <span class="interview-quote">"</span>
-                    As you travel through countries, you learn that each culture is different and that 
-                    people have so much knowledge to teach you; and as long as you are willing to try and be a part of 
-                    that cultural experience, people will share their part of the story.
-                    <span class="interview-quote">"</span>
+        <!-- nature interview section -->
+        <section id="nature-interview" class="interview-bp">
+            <div class="interview-frame">
+                    <h2 class="bold">Discover Nature with <span class="y">Y</span>
+                        <span class="u">ū</span>
+                        <span class="g">g</span>
+                        <span class="e">e</span>
+                        <span class="n">n</span>
+                    </h2>
                     <br>
-                    <a href="interview.html"> Read more</a>
-                </p>
-            </div>
-        </section>
-        <section>
-            <h5>Show your support and take action.</h5>
-            <div class="take-action-container">
-                <div class="take-action-verticle">
-                    <a href="form.html">
-                        <button id="action" class="take-action-button">
-                            <i class="fas fa-fist-raised"></i> Take Action <i class="fas fa-fist-raised"></i>
-                        </button>
+                <!-- The sidebar -->
+                <nav class="sidebar">
+                    <a href="#what-is-yugen">What is 
+                        <span class="y">Y</span>
+                        <span class="u">ū</span>
+                        <span class="g">g</span>
+                        <span class="e">e</span>
+                        <span class="n">n</span>
                     </a>
+                    <a href="#who-are-we">Who are we?</a>
+                    <a href="#who-are-we">What we do</a>
+                    <a href="https://fishytravels.wordpress.com/" target="_blank">Travel blog</a>
+                </nav>
+            </div>
+           
+            <div id="what-is-yugen" class="pad">
+                <div class="interview-frame">
+                    <h4>
+                        What is 
+                        <span class="y">Y</span>
+                        <span class="u">ū</span>
+                        <span class="g">g</span>
+                        <span class="e">e</span>
+                        <span class="n">n</span> ?
+                    </h4>
+                    <br>
+                    
+                    <p class="interview-text">
+                        <span class="y">Y</span>
+                        <span class="u">ū</span>
+                        <span class="g">g</span>
+                        <span class="e">e</span>
+                        <span class="n">n</span> is a Japanese word which refers to an awareness of the Universe that triggers emotional responses 
+                        too deep and powerful for words. It is used as a title for this website with the aim to inspire 
+                        nature travellers to embrace the natural world and raise awareness about the need to protect the 
+                        natural environment. As such, this website will be targeted towards people who want to travel sustainably 
+                        while contributing positively to the global goal of protecting the environment.
+                    </p>
+                    <figure class="center">
+                        <img src="/assets/images/woman-sunglasses.webp" alt="Trulli">
+                        <figcaption>A deep mystery of the Universe</figcaption>
+                    </figure> 
+                </div>
+            </div>
+            <div class="space"></div>
+            <div class="pad">
+                <div class="interview-frame">
+                    <h4>
+                        Who are we?
+                    </h4>
+                    <br>
+                    <p class="interview-text">
+                        We are a community of passionate nature travellers and guardians of the environment with a 
+                        mandate to prevent further destruction on the planet.  
+                    </p>
+                    
+                </div>
+            </div>
+            <div class="space"></div>
+            <div class="pad">
+                <div class="interview-frame">
+                    <h4>
+                        What we do
+                    </h4>
+                    <br>
+                    <p class="interview-text">
+                        We strive to protect our planet by raising the flag whenever and wherever a threat on the environment is observed. 
+                        Our log in form allows members of the community to locate any incident, provide both qualitative and quantitative 
+                        data which is transmitted directly to representative of the constituents to address the issue(s) identified. 
+                    </p>
+                    
+                </div>
+            </div>
+            <div class="space"></div>
+            <div class="pad">
+                <div class="interview-frame">
+                    <h4>
+                        How can you help?
+                    </h4>
+                    <p>Follow the three simple steps:</p>
+                    <br>
+                    <dl>
+                        <dt>#1</dt>
+                        <dd>Get out there and visit places near and far</dd>
+                        <dt>#2</dt>
+                        <dd>Share your nature travel experience with us</dd>
+                        <dt>#3</dt>
+                        <dd>Provide an environmental rating of the places you have visited</dd>
+                    </dl>
+                </div>
+            </div>
+            <div class="space"></div>
+            <div class="pad">
+                <div class="interview-frame">
+                    <div>
+                        <h3>Insight: Interview with our nature expert</h3>
+                        <p>
+                            <span class="interview-quote">"</span>
+                            As you travel through countries, you learn that each culture is different and that 
+                            people have so much knowledge to teach you; and as long as you are willing to try and be a part of 
+                            that cultural experience, people will share their part of the story.
+                            <span class="interview-quote">"</span>
+                        </p>
+                        <div class="take-action-container">
+                            <nav class="take-action-verticle">
+                                <a href="interview.html" class="take-action-button">Read More</a>
+                            </nav>
+                        </div>
+                    </div>
                 </div>
             </div>
         </section>
