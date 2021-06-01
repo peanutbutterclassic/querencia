@@ -34,14 +34,29 @@ This website follows a "three clicks" rule where three pages are provided with t
 * The aim and vision section of the website introduces users to [Yugen](https://peanutbutterclassic.github.io/yugen/)'s core values followed by a call to do more to protect the planet by Sir David Attenborough.
   * The following section include three steps to get involved, which leads the discover more button at the bottom of the page just before the footer (containing all the main social media groups)
 
-* Upon clicking the call to action button, users will be directed to the Discover Nature part. The discover nature section aims to provide users with more information about Yugen and where Yegen go its name from. 
+* Upon clicking the call to action button, users will be directed to the Discover Nature page. The discover nature page aims to provide users with more information about Yugen and where Yugen got its name from. 
+  * It also aims to 
 
 * Again, a consistent layout with contents and a call to action button place immediately above the social media form to attract users to engage. 
 
 * The following page includes an interview with an seasoned traveller who introduces and entertain users about travelling, and what could be learnt from travelling.
   * The page includes a video of FishyTravels to Hawaii
   * Collection of pictures taken during FishyTravels' tour around the world and in particular, New Zealand.
+  * This page is intended to inspire users to get out and see the world, get some useful experience. 
+  * Again, at the end of the page, there is a "read more" button, which takes users to the 
 
+### Features left to implement
+
+* One useful feature to consider for this website is a log in form which would allow users to enter their full details to gain membership as explained in Discover Nature page. However, such feature would also include the posibility to geolocate the place being reported. Such features include:
+  * A direct link to a geographical information system (GIS) which would generate all reports in one place and produce a map with all spacial analysis of the data collected and presented on a dashboard (a dedicated page or sidebar with live figures and reports);
+  * Data can be analysed to create a report for users to get access through their membership.
+
+* Another useful feature is to allow users that have recently signed up to have the opportunity to initiate their campaign with their ideas which is discussed in different forums.
+
+
+## Testing
+
+[css](https://validator.w3.org/nu/#textarea)
 
 
 
