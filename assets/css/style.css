@@ -164,7 +164,7 @@ header {
 #boat-image {
     height: 600px;
     width: 100%;
-    background: url('../images/sunset-walk.webp') no-repeat center center;
+    background: url('../images/lonely-tree.webp') no-repeat center center;
 
     /* animates zoom effect on loading page */
     animation-name: boat-zoom;
