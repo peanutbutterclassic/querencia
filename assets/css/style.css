@@ -329,10 +329,10 @@ dd {
     padding: 0 0 0.5em 0;
   }
 
-  
+/* codes to be deleted   */
 /* nature page */
 
-.box-float-left {
+/* .box-float-left {
     width: 50%;
     padding: 30px 30px;
     margin: 0 auto;
@@ -344,7 +344,7 @@ dd {
     padding: 30px 30px;
     margin: 0 auto;
     float: right;
-}
+} */
 
 /* below code to be deleted */
 /* #nature-experts {
@@ -434,6 +434,22 @@ h3 {
     line-height: 75px;
 }
 
+.interview-link {
+    background-color: #d88130;
+    color: seashell;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 4px;
+
+}
+
+.interview-link:hover, .interview-link:active {
+    background-color: #138599;
+}
+
+
 /* Form */
 
 .form-section {
@@ -450,7 +466,7 @@ h3 {
     background-color: rgba(60, 60, 60, 0.6);
     max-width: 400px;
     position: absolute;
-    top: 20%;
+    top: 5%;
     left: 5%;
     padding: 30px;
 }
