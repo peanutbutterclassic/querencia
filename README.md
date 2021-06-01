@@ -27,14 +27,29 @@ This website follows a "three clicks" rule where three pages are provided with t
 
 
 * The landing page (home) image
-  * The landing includes a photograph of nature (height 600px) with text overlay "Discover, Dream, Explore" to inspire users to get their foot into the world of discoveries.
+  * The landing includes a photograph of nature with text overlay "Discover, Dream, Explore" to inspire users to get their foot into the world of discoveries.
   * This section introduces the technique gained from one of [Code Institute](https://codeinstitute.net/)'s lectures on website animations to create a zoom effect upon entering the website to grab users' attention.
+<!-- add landing page image -->
+
+* The aim and vision section of the website introduces users to [Yugen](https://peanutbutterclassic.github.io/yugen/)'s core values followed by a call to do more to protect the planet by Sir David Attenborough.
+  * The following section include three steps to get involved, which leads the discover more button at the bottom of the page just before the footer (containing all the main social media groups)
+
+* Upon clicking the call to action button, users will be directed to the Discover Nature part. The discover nature section aims to provide users with more information about Yugen and where Yegen go its name from. 
+
+* Again, a consistent layout with contents and a call to action button place immediately above the social media form to attract users to engage. 
+
+* The following page includes an interview with an seasoned traveller who introduces and entertain users about travelling, and what could be learnt from travelling.
+  * The page includes a video of FishyTravels to Hawaii
+  * Collection of pictures taken during FishyTravels' tour around the world and in particular, New Zealand.
+
+
+
 
 This website aims to achieve the following goals:
 * Inspire people to see their surroundings as well as what goes on beyond their borders and document what they see or witness;
 * Raise awareness about environmental degration and the need to protect the planet from further harm;
 * Create a network of like-minded individuals with a passion for nature and travelling; and,
-* Get people to join the community and become future nature gardians.
+* Get people to join the community and build a network of caring travellers.
 
 Users can expect:
 * Gain an understanding of the need to team-up and work to protect the planet;
