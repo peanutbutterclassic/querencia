@@ -4,7 +4,7 @@ Welcome to [Yūgen](https://peanutbutterclassic.github.io/yugen/).
 
 This image is from [Am I Responsive](http://ami.responsivedesign.is/?url=https%3A%2F%2Fpeanutbutterclassic.github.io%2Fyugen%2F#).
 
-![Landing homepage](https://raw.githubusercontent.com/peanutbutterclassic/yugen/master/assets/images/readme-images/screenshot-landing.png)
+![Landing homepage](https://raw.githubusercontent.com/peanutbutterclassic/yugen/master/assets/images/readme-images/screenshot_homepage.png)
 
 [Yūgen](https://peanutbutterclassic.github.io/yugen/) is a Japanese word which refers to an awareness of the Universe that triggers emotional responses too deep and powerful for words. It is used as a title for this website with the aim to inspire nature travellers to embrace the natural world and raise awareness about the need to protect the environment. As such, this website will be targeted towards people who want to travel sustainably while contributing positively to the global goal of protecting the environment. In other word, [Yugen](https://peanutbutterclassic.github.io/yugen/) is a platform for like-minded travellers who want to do more to help the environment than just visiting places. 
 

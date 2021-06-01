@@ -445,6 +445,17 @@ h3 {
 
 }
 
+.interview-tab {
+    background-color: #d88130;
+    color: seashell;
+    padding: 4px 6px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 4px;
+
+}
+
 .interview-link:hover, .interview-link:active {
     background-color: #138599;
 }
