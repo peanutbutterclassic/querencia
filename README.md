@@ -58,8 +58,6 @@ This website follows a "three clicks" rule where three pages are provided with t
 
 [css](https://validator.w3.org/nu/#textarea)
 
-
-
 This website aims to achieve the following goals:
 * Inspire people to see their surroundings as well as what goes on beyond their borders and document what they see or witness;
 * Raise awareness about environmental degration and the need to protect the planet from further harm;
@@ -103,61 +101,13 @@ To achieve the strategic goals, I have adopted a three-click rule, which is impl
 
 ## Skeleton
 
-The website includes three pages:
+The website includes four pages:
 1. A [Home](https://peanutbutterclassic.github.io/yugen/index.html) page
 2. A [Discover Nature](https://peanutbutterclassic.github.io/yugen/nature.html) page
 3. An [Interview](https://peanutbutterclassic.github.io/yugen/interview.html) page
 4. A [Form](https://peanutbutterclassic.github.io/yugen/form.html)
 
-
-
-
-
-help users realise that they can make a positive impact on their environment by simply getting out there and keep an eye out for any threat facing the environment.
-
-
-External user’s goal:
- During the post pandemic when restictions are lifted, users would be interested in travelling and discovering new places. 
-
-Site owner's goal:
-* The goal of the site is to inspire aspiring travellers and provide a reliable source of information on places to visit, means of getting there and useful links (external references) on travel itinerary. 
-
-Potential features to include:
-* Beautiful images of nature, cultural and monumental sites, and life. 
-* travel itinerary
-* Evidence-based information
-* Images/video supporting the facts
-
-As such, the objectives are listed as follows:
-1. Create an engaging website that inspire people to take that first step.
-2. Utilise and maximise UX design to improve users experience.
-3. Apply all essential learning outcomes from HTML/CSS modules to optimise the website's look and feel.
-
-The website shall be structured as follows:
-1. Discover nature travels
-    * Interesting facts
-    * Insight: Interview with a nature expert
-    * Tips and useful contacts/links
-
-During the post pandemic, many people will be eager to get back in the air and some might even want to start checking off their travel bucket list so this website is designed to inspire people to discover the Wonders the world has to offer.
-Landing page shall include a teaser to promote, inspire and get users to take action (enter website and discover).
-
-Sign-up page
-New users will be provided with new credentials upon signing up to the call to action (become a member)
-Sign up page shall include: form validation to avoid errors or typos
-
-Pictures will be used to illustrate the website. As such the following platforms shall be considered:
-
-Pexels
-Unsplash
-StockVault
-Pixabay
-PicJumbo
-FreeImages
-PikWizard
-Stocksnap
-RawPixel
-
 References:
-- Apply colour coded logo through [WittCode](https://www.youtube.com/watch?v=5EJWYUwOe3E)
+- [WittCode](https://www.youtube.com/watch?v=5EJWYUwOe3E)
 - [Bon Travel](https://www.bontraveler.com/12-beautiful-foreign-words-that-describe-wanderlust/)
+- [FishyTravels](https://fishytravels.wordpress.com/)
