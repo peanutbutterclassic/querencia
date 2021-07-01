@@ -311,12 +311,9 @@ dd {
 /* nature */
 
 .interview-bp {
-    background: url('../images/sunset-walk.webp') no-repeat fixed center;
+    background: url('../images/sunset-walk.webp') no-repeat center center fixed;
     background-size: cover;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+    
 }
 
 h3 {
