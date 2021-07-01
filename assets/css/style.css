@@ -150,7 +150,7 @@ header {
 #boat-image {
     height: 600px;
     width: 100%;
-    background: url('assets/images/lonely-tree.webp') no-repeat center center;
+    background: url('../images/lonely-tree.webp') no-repeat center center;
 
     /* animates zoom effect on loading page */
     animation-name: boat-zoom;
@@ -203,7 +203,7 @@ header {
 #cliff-pose {
     height: 600px;
     width: 100%;
-    background: url('assets/images/cliff-pose.webp') no-repeat center center;
+    background: url('../images/cliff-pose.webp') no-repeat center center;
 
     /* animates zoom effect on loading page */
     animation-name: boat-zoom;
@@ -311,7 +311,7 @@ dd {
 /* nature */
 
 .interview-bp {
-    background: url(/assets/images/sunset-walk.webp) no-repeat fixed center;
+    background: url('../images/sunset-walk.webp') no-repeat fixed center;
     background-size: cover;
 }
 
@@ -344,7 +344,7 @@ h3 {
 #article-image {
     height: 300px;
     width: 300px;
-    background: url(../images/sunset-boat.webp) no-repeat center center;
+    background: url('../images/sunset-boat.webp') no-repeat center center;
     float: right;
     
 }
@@ -383,7 +383,7 @@ h3 {
 
 .form-section {
     clear: left;
-    background: url(../images/sunset-walk.webp) no-repeat center center;
+    background: url('../images/sunset-walk.webp') no-repeat center center;
     background-size: cover;
     background-position: center;
     height: 900px;
