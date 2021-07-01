@@ -313,6 +313,7 @@ dd {
 .interview-bp {
     background: url('../images/sunset-walk.webp') no-repeat fixed center;
     background-size: cover;
+    min-height: 500px;
 }
 
 h3 {
