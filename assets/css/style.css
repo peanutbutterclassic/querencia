@@ -150,7 +150,7 @@ header {
 #boat-image {
     height: 600px;
     width: 100%;
-    background: url('../images/lonely-tree.webp') no-repeat center center;
+    background: url('assets/images/lonely-tree.webp') no-repeat center center;
 
     /* animates zoom effect on loading page */
     animation-name: boat-zoom;
@@ -203,7 +203,7 @@ header {
 #cliff-pose {
     height: 600px;
     width: 100%;
-    background: url('../images/cliff-pose.webp') no-repeat center center;
+    background: url('assets/images/cliff-pose.webp') no-repeat center center;
 
     /* animates zoom effect on loading page */
     animation-name: boat-zoom;
